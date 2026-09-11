@@ -44,7 +44,6 @@ class LoginView(APIView):
 
 class MyView(APIView): 
     permission_classes = [IsAuthenticated] 
-    # Fix: It must be 'serializer_class', not 'serializers_class'
     serializer_class = MySerializers 
 
     def get(self, request, *args, **kwargs):
