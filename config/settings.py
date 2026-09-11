@@ -136,7 +136,7 @@ SIMPLE_JWT = {
 # https://drf-spectacular.readthedocs.io/en/latest/settings.html
 
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'JWT API',
+    'TITLE': 'JWT lesson API',
     'DESCRIPTION': 'User registration and JWT authentication API.',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
