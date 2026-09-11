@@ -137,7 +137,7 @@ SIMPLE_JWT = {
 
 SPECTACULAR_SETTINGS = {
     'TITLE': 'JWT lesson API',
-    'DESCRIPTION': 'User registration and JWT authentication API.',
+    'DESCRIPTION': 'in the best jwt lesson API',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
     'SWAGGER_UI_SETTINGS': {
